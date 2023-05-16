@@ -1,6 +1,7 @@
 Welcome in tuttorial of Git
 What is Git ? anyone??
 
-Git is a web based software which is free for all. It is version control system
+Git is a web based software which is free for all. It is a version control system.
+It keeps track changes made by contributor and helps to revert back the changes if not works.
 
 Thank You
